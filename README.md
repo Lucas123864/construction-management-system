@@ -23,6 +23,8 @@ python manage.py createsuperuser
 
 Use the following command to run the server
 ```
+. env/Scripts/activate 
+
 python manage.py runserver
 ```
 
